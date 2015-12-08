@@ -1,0 +1,35 @@
+{
+  "name": "bedrock-event-log",
+  "version": "0.0.1-dev",
+  "description": "Bedrock event log module",
+  "main": "./lib/event-log",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-event-log"
+  },
+  "keywords": [
+    "bedrock",
+    "event",
+    "log"
+  ],
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-event-log/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-event-log",
+  "dependencies": {
+    "async": "^1.4.2"
+  },
+  "peerDependencies": {
+    "bedrock": "^1.0.0",
+    "bedrock-permission": "^1.0.0",
+    "bedrock-mongodb": "^1.0.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}
