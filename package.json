@@ -1,6 +1,6 @@
 {
   "name": "bedrock-event-log",
-  "version": "0.0.1-dev",
+  "version": "1.0.0",
   "description": "Bedrock event log module",
   "main": "./lib/event-log",
   "repository": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-event-log",
   "dependencies": {
-    "async": "^1.4.2"
+    "async": "^1.5.2"
   },
   "peerDependencies": {
     "bedrock": "^1.0.0",
