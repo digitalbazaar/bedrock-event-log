@@ -1,6 +1,10 @@
 # bedrock-event-log
 A [bedrock][] module that can be used to record events of defined types into a MongoDB collection.
 
+## Requirements
+
+- npm v3+
+
 ## Quick Examples
 ```
 var config = require('bedrock').config;
@@ -17,7 +21,7 @@ eventLog.add({
   date: new Date().toJSON(),
   itemCategory: 'itemCategory1234',
   resource: 'https://example.com/item/12345',
-  actor: 'user1234' 
+  actor: 'user1234'
 }, callback);
 ```
 ## API
