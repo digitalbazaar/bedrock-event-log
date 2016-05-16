@@ -1,8 +1,11 @@
 # bedrock-event-log ChangeLog
 
-## [Unreleased]
+## 2.1.0 - 2016-05-16
 
-## [2.0.1] - 2016-03-15
+### Added
+- find API.
+
+## [2.0.1] - 2016-04-15
 
 ### Changed
 - Update bedrock dependencies.
@@ -15,8 +18,3 @@
 ## [1.0.0] - 2016-01-31
 
 - See git history for changes.
-
-[Unreleased]: https://github.com/digitalbazaar/bedrock-event-log/compare/2.0.1...HEAD
-[2.0.1]: https://github.com/digitalbazaar/bedrock-event-log/compare/2.0.0...2.0.1
-[2.0.0]: https://github.com/digitalbazaar/bedrock-event-log/compare/1.0.0...2.0.0
-[0.0.0]: https://github.com/digitalbazaar/bedrock-event-log/compare/0.0.0...1.0.0
