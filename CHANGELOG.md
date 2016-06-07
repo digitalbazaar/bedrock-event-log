@@ -1,5 +1,8 @@
 # bedrock-event-log ChangeLog
 
+### Changed
+- Update dependencies.
+
 ## 2.1.0 - 2016-05-16
 
 ### Added
