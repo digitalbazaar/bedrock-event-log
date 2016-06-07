@@ -1,6 +1,6 @@
 {
   "name": "bedrock-event-log",
-  "version": "2.1.1-dev",
+  "version": "2.1.1",
   "description": "Bedrock event log module",
   "main": "./lib/event-log",
   "repository": {
