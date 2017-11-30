@@ -1,5 +1,7 @@
 # bedrock-event-log ChangeLog
 
+## 2.1.2 - 2017-11-30
+
 ### Changed
 - Use child logger.
 
